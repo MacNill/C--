@@ -55,7 +55,7 @@ Console.WriteLine("Наибольшее из введённых чисел - " +
 -3 -> нет
 7 -> нет
 
-*/
+
 
 Console.WriteLine("Введите число");
 
@@ -68,4 +68,40 @@ if (N % 2 == 1)
 else
 {
     Console.WriteLine(N + " является чётным числом");
+}
+-------------------------------------------------------
+
+Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+5 -> 2, 4
+8 -> 2, 4, 6, 8
+
+int a = 0;
+
+while(a < 20){
+    a = a + 1;
+    Console.WriteLine(a);
+}
+
+
+int N = int.Parse(Console.ReadLine());
+
+int a = -N;
+
+while (a <= N){
+    
+    Console.Write ($"{a} ");
+      a = a + 1;
+}
+*/
+
+Console.WriteLine("Введите число:");
+int N = Convert.ToInt32(Console.ReadLine());
+int a = 1;
+
+while (a <= N)
+{
+    if (a % 2 == 0)
+        Console.Write(a + " , ");
+    a++;
 }
