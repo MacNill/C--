@@ -76,23 +76,6 @@ else
 5 -> 2, 4
 8 -> 2, 4, 6, 8
 
-int a = 0;
-
-while(a < 20){
-    a = a + 1;
-    Console.WriteLine(a);
-}
-
-
-int N = int.Parse(Console.ReadLine());
-
-int a = -N;
-
-while (a <= N){
-    
-    Console.Write ($"{a} ");
-      a = a + 1;
-}
 */
 
 Console.WriteLine("Введите число:");
