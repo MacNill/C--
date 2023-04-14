@@ -1,4 +1,4 @@
-﻿int [] arr = new arr[]{1,2,3,4,5};
+﻿/*?int [] arr = new arr[]{1,2,3,4,5};
 PrintArray(arr);
 
 PrintArray(reversed);
@@ -13,3 +13,4 @@ PrintArray(reversed);
     }
     return reversed;
 }
+*/
