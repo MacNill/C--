@@ -1,16 +1,41 @@
-﻿/*?int [] arr = new arr[]{1,2,3,4,5};
-PrintArray(arr);
+﻿/*
+ Задача 48: Задайте двумерный массив размера m на n, каждый элемент в массиве находится по формуле: Aₙₙ = m+n. 
+Выведите полученный массив на экран.
+m = 3, n = 4. 
+0 1 23
+1 2 34
+2 3 45
 
-PrintArray(reversed);
+int[,] array = Generate2DArray(3, 23);
+PrintArray(array);
 
+void PrintArray(int[,] array)
 {
-    int[] reversed = new int [array.Length];
-    for (var i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        reversed[i] = array[array.Length - 1 -i];
-        //reversed[i] = array[^-1};
+        for (var j = 0; j < array.GetLength(1); j++)
+        {
+           Console.Write(array[i,j]);
+           Console.Write(" ");
 
+        }
+        Console.WriteLine();
     }
-    return reversed;
 }
+
+int[,] Generate2DArray(int m, int n)
+{
+    int[,] array = new int[m, n];
+    for (var i = 0; i < array.GetLength(0); i++)
+    {
+        for (var j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = i + j;
+        }
+    }
+
+    return array;
+}
+----------------------------------
+
 */

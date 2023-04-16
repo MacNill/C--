@@ -3,3 +3,13 @@ C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.GeneratedMSBu
 C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.AssemblyInfoInputs.cache
 C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.AssemblyInfo.cs
 C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\C##\Examples_06\bin\Debug\net6.0\Examples_06.exe
+C:\Users\HOME\Desktop\C##\Examples_06\bin\Debug\net6.0\Examples_06.deps.json
+C:\Users\HOME\Desktop\C##\Examples_06\bin\Debug\net6.0\Examples_06.runtimeconfig.json
+C:\Users\HOME\Desktop\C##\Examples_06\bin\Debug\net6.0\Examples_06.dll
+C:\Users\HOME\Desktop\C##\Examples_06\bin\Debug\net6.0\Examples_06.pdb
+C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.dll
+C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\refint\Examples_06.dll
+C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.pdb
+C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\Examples_06.genruntimeconfig.cache
+C:\Users\HOME\Desktop\C##\Examples_06\obj\Debug\net6.0\ref\Examples_06.dll
