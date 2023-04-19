@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\C##\Examples3\bin\Debug\net6.0\Examples3.exe
+C:\Users\HOME\Desktop\C##\Examples3\bin\Debug\net6.0\Examples3.deps.json
+C:\Users\HOME\Desktop\C##\Examples3\bin\Debug\net6.0\Examples3.runtimeconfig.json
+C:\Users\HOME\Desktop\C##\Examples3\bin\Debug\net6.0\Examples3.dll
+C:\Users\HOME\Desktop\C##\Examples3\bin\Debug\net6.0\Examples3.pdb
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.AssemblyInfo.cs
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.dll
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\refint\Examples3.dll
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.pdb
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\Examples3.genruntimeconfig.cache
+C:\Users\HOME\Desktop\C##\Examples3\obj\Debug\net6.0\ref\Examples3.dll
