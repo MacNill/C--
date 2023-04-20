@@ -1,7 +1,7 @@
 ﻿// Двумерные массивы
 // string[,]table = new string[2,3]; 2- строки, 3 - столбцы.
-
-/*string[,]table = new string[2,5];
+/*
+string[,]table = new string[2,5];
 table[1, 2] = "слово";
 
 for (int rows = 0; rows < 2; rows++)
@@ -62,3 +62,4 @@ for (int i = 0; i < 40; i++)
     Console.WriteLine($"{i}! = {Factorial(i)}"); 
 }
 */
+
