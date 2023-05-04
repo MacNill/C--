@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\C##\Final_test\bin\Debug\net6.0\Final_test.exe
+C:\Users\HOME\Desktop\C##\Final_test\bin\Debug\net6.0\Final_test.deps.json
+C:\Users\HOME\Desktop\C##\Final_test\bin\Debug\net6.0\Final_test.runtimeconfig.json
+C:\Users\HOME\Desktop\C##\Final_test\bin\Debug\net6.0\Final_test.dll
+C:\Users\HOME\Desktop\C##\Final_test\bin\Debug\net6.0\Final_test.pdb
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.AssemblyInfo.cs
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.dll
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\refint\Final_test.dll
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.pdb
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\Final_test.genruntimeconfig.cache
+C:\Users\HOME\Desktop\C##\Final_test\obj\Debug\net6.0\ref\Final_test.dll
